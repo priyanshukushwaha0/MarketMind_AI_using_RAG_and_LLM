@@ -52,3 +52,11 @@
  ├── requirements.txt              # Python dependencies
  ├── README.md                     # Project description
  ├── chatbot_qna.md                # Sample Q&A examples
+
+ 
+---
+
+## MarketMind_AI System Architecture
+
+ <img width="1536" height="1024" alt="marketmind" src="https://github.com/user-attachments/assets/3c3f9ac9-155f-4095-b43b-651ca5876171" />
+
