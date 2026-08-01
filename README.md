@@ -37,7 +37,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/MarketMind_AI
+   git clone https://github.com/priyanshukushwaha0/MarketMind_AI.git
    cd MarketMind_AI
 2. Install dependencies --> pip install -r requirements.txt
 
