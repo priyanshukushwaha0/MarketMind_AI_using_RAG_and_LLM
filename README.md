@@ -39,19 +39,22 @@
    ```bash
    git clone https://github.com/priyanshukushwaha0/MarketMind_AI.git
    cd MarketMind_AI
-2. Install dependencies --> pip install -r requirements.txt
+   
+2. Install dependencies --> python -m pip install -r requirements.txt
 
    Run the Streamlit app --> python -m streamlit run market_mind.py
 
+---
 
-3. File Structure
+## File Structure
 
- ├── market_mind.py                # Response Generation or Main chatbot logic
- ├── connect_memory_with_llm.py    # Information Retrieval
- ├── create_memory_for_llm.py      # Document Indexing
- ├── requirements.txt              # Python dependencies
- ├── README.md                     # Project description
- ├── chatbot_qna.md                # Sample Q&A examples
+    MarketMind_AI
+       ├── market_mind.py                # Response Generation or Main chatbot logic
+       ├── connect_memory_with_llm.py    # Information Retrieval
+       ├── create_memory_for_llm.py      # Document Indexing
+       ├── requirements.txt              # Python dependencies
+       ├── README.md                     # Project description
+       ├── chatbot_qna.md                # Sample Q&A examples
 
  
 ---
